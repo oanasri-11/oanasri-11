@@ -16,7 +16,7 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/nasri-abderrahmene" target="_blank">
+  <a href="https://www.linkedin.com/in/nasri-abderrahmene-19086233b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   <a href="https://discord.gg/abderrahmene1" target="_blank">
