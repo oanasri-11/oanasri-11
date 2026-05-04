@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nasri Abderrahmene</h1>
+<h1 align="center">Hi , I'm Nasri Abderrahmene</h1>
 <h3 align="center">Computer Science Student | Backend & AI Enthusiast</h3>
 
 <p align="center">
@@ -9,10 +9,10 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Multi-level Learning Platform**
-- 🌱 I’m currently learning **System Design, Backend, and Machine Learning**
-- 📫 How to reach me: **oa_nasri@esi.dz**
+###  About Me
+-  I’m currently working on **Multi-level Learning Platform**
+-  I’m currently learning **System Design, Backend, and Machine Learning**
+-  How to reach me: **oa_nasri@esi.dz**
 
 ### 🤝 Connect with me:
 <p align="left">
