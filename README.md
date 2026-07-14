@@ -37,3 +37,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?oanasri-11=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?uoanasri-11=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
